@@ -15,4 +15,8 @@ it utilizes alternative PHP functions such as `mail()`, `proc_open()`, `putenv()
 The shell is engineered to evade detection by leading Web Application Firewalls (WAFs) including LiteSpeed, ModSecurity, Imunify360, BitNinja, Sucuri, WordFence, and more.  
 Minimal, obfuscated codebase; no suspicious keywords or comments; full mobile/desktop compatibility.
 
+## 🖼️ Screenshot
+
+![UI Preview](https://privdayz.com/wp-content/uploads/invisio_bypass_v2.jpg)
+
 ---
