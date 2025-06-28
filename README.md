@@ -1,4 +1,4 @@
-# 🚩 Invisio Bypass Shell – Next-Gen PHP Stealth & WAF Bypass Webshell
+# 🚩 Invisio Bypass Shell v2.0 – Next-Gen PHP Stealth & WAF Bypass Webshell
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-PHP%20%7C%20Linux%2FWindows-informational)](#)
